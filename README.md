@@ -4,7 +4,7 @@
          infra基础架构：数据库（含中间件）、存储内核（块、文件、对象、kv等）、搜索|推荐|广告
          区域: 北京/上海/深圳/南京/杭州/成都
  
-         Data：Data lake/Data engineer/Hadoop/Spark/Flink/OLAP【Apache Doris、Select DB、Doris DB/StarRocks、clickhouse、impala、presto
+         Data：Data lake/EMR/Data engineer/Hadoop/Spark/Flink/OLAP【Apache Doris、Select DB、Doris DB/StarRocks、clickhouse、impala、presto
          analytic DB、hologres、impala、kudu、presto】& HTAP【TiDB、PolarDB、Oceanbase、GuassDB...】
          Machine Learning/Deeplearning/Reforcement learning/tensorflow/caffe/paddle/PAI/mindspore
          infra：Database kernel | storage（Block storage、OSS、HDFS、Ceph、KV）| ES、search | recommend | ads engine
