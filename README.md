@@ -2,8 +2,8 @@
 - 👀 I’m focusing on 
 
          2023.03-至今：
-         AI人工智能:LLM：预训练、SFT、RLHF「RW」、Alignment「DPO/PPO」、NLP/NLP大模、多模态大模型等；
-                  AIGC & 应用算法：Stable diffsion/VAE/Mid jourley/GAN、搜推广、数据挖掘
+         AI人工智能:自回归：预训练、SFT、RLHF「RW」、Alignment「DPO/PPO」、NLP、openrl/verl、Reasoning、hybrid reasoning、多模态大模型「多模态理解/多模态生成」等；
+                  扩散模型& 应用算法：aigc、Stable diffsion/VAE/GAN、3D、nerf、3DGS、Agent、多Agent协同、 Agent RL、Rag/sft、loRA/QLoRA、搜推广、数据挖掘等
                   AI infra：AI编译、调度引擎、分布式训练（稠密模型 & 稀疏模型）、高性能计算、推理引擎；机器学习平台/深度学习平台、AI工程
          2019.03-2023.03
          Data数据: 数据湖、大数据平台|架构、引擎|组件、应用|数仓、数据产品开发、业务数据开发、数据仓库开发、数据治理...
