@@ -18,7 +18,8 @@
          具身 Agent: 机器人“大脑”与“小脑”的耦合、物理环境下的智能体感知与反馈架构
 
          AI Infra (算力基础设施与数据底座)：
-         AI 工程化: AI 编译器 (MLIR/TVM)、分布式训练「MOE、Dense/sparse」/Deepspeed/Megatron、算子优化、分布式并行策略 (3D Parallelism)、高性能计算 HPC &高性能网络RDMA
+         AI 工程化: AI 编译器 (MLIR/TVM)、分布式训练「MOE、Dense/sparse」/Deepspeed/Megatron、算子优化、分布式并行策略 (3D Parallelism)
+         高性能计算 HPC &高性能网络RDMA
          推理与部署: 高性能推理框架 (vLLM, SGLang, Triton，TensorRT-LLM)、模型压缩与量化
          数据架构: 增量计算、向量数据库 (Vector DB)、数据湖 (Lakehouse/Iceberg)、分布式存储与数据库内核
 
