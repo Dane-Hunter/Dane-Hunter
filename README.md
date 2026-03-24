@@ -3,11 +3,12 @@
 
          2023.03-至今：
          Digital Ai:
-         认知、决策与智能体 (Cognitive & Agentic AI)自回归基模 (Foundational Models): 预训练 (Pre-train)、后训练 (Post-training) 体系、Reasoning Model (逻辑推理模型)、Long Context、MoE 架构及多模态对齐；
+         认知、决策与智能体 (Cognitive & Agentic AI)自回归基模 (Foundational Models): 预训练 (Pre-train)、后训练 (Post-training) 体系
+         Reasoning Model (逻辑推理模型)、Long Context、MoE 架构及多模态对齐；
          智能体架构 (Agentic Systems):
-         * 框架层: Agentic Workflow, Multi-Agent Collaboration (多机协同), LangGraph/Langchain, AutoGen、Dify；
-         * 能力层: GUI Agent、Tool Use, Function Calling、MCP/A2A、Browser/computer use
-         * 评测与进化：Agent RL，Sandbox/Harness Engineering, SWE-bench 评测
+         - 框架层: Agentic Workflow, Multi-Agent Collaboration (多机协同), LangGraph/Langchain, AutoGen、Dify；
+         - 能力层: GUI Agent、Tool Use, Function Calling、MCP/A2A、Browser/computer use
+         - 评测与进化：Agent RL，Sandbox/Harness Engineering, SWE-bench 评测
          生成式算法 (AIGC): 基于 DiT 架构的图像/视频生成 (Sora/Flux/Veo)、3D 原生生成 (3DGS/NeRF/TripoSR)
 
          Physical AI: (Embodied AI & Robotics)【少量涉猎】：
